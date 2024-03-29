@@ -9,7 +9,7 @@
 Welcome to my Github page! I am currently completing my Bachelor's Degree in Computer Science at Zhengzhou University! 
 
 <img align="right" alt="img" src="https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg" width="50%" height="auto" />
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caodong123&show_icons=true&hide_border=true" />
 
 #### 🌱 Things I am currently working on: 
 
@@ -27,6 +27,7 @@ Welcome to my Github page! I am currently completing my Bachelor's Degree in Com
 #### :computer: Programming languages and tools: 
 
 <p>
+
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FF4800)
