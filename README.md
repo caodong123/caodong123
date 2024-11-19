@@ -14,7 +14,7 @@ Welcome to my Github page! I am currently completing my Bachelor's Degree in Com
 #### 🌱 Things I am currently working on: 
 
 - Completing my Bachelor's Degree in Computer Science
-- Successfully applying to a satisfactory school
+- Successfully applying to a satisfactory school (----> NEU)
 - Learn about artificial intelligence
 - Keep learning more new and interesting techniques
 
