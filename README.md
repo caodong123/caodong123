@@ -9,7 +9,7 @@
 Welcome to my Github page! I received my Bachelor's degree from ZZU and am currently pursuing my Master's degree at NEU (China).
 
 <img align="right" alt="img" src="https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg" width="50%" height="auto" />
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caodong123&show_icons=true&hide_border=true" />
+
 
 #### 🌱 Things I am currently working on: 
 
