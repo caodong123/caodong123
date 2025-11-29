@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-Gitee-000?style=flat&logo=Gitee&logoColor=blue)](https://gitee.com/caodong123)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:caodong2024@163.com)
 
-Welcome to my Github page! I am currently completing my Bachelor's Degree in Computer Science at ZZU! ZZU -> NEU (China)
+Welcome to my Github page! I received my Bachelor's degree from ZZU and am currently pursuing my Master's degree at NEU (China).
 
 <img align="right" alt="img" src="https://w.wallhaven.cc/full/l8/wallhaven-l8vp7y.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caodong123&show_icons=true&hide_border=true" />
